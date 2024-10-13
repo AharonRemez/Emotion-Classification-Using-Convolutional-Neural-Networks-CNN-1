@@ -6,9 +6,9 @@ The goal of this project is to classify human emotions based on facial images us
 
 ## Model Performance
 
-#### Validation Accuracy: 92.21%
-#### Training Loss: 10.3668
-#### Validation Loss: 10.8729
+#### Validation Accuracy: 91.47% 
+#### Training Loss: 9.7201
+#### Validation Loss: 8.4742
 ### Sample Predictions:  
 ![Sample Predictions](sample-predictions.png)
 ### Confusion Matrix:  
